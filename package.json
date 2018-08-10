@@ -1,0 +1,24 @@
+{
+  "name": "cwd-13-packages",
+  "version": "1.0.0",
+  "description": "Complete Web Developer Installing Packages",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react": "^16.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMiskew/CWD-13-Packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PMiskew/CWD-13-Packages/issues"
+  },
+  "homepage": "https://github.com/PMiskew/CWD-13-Packages#readme"
+}
